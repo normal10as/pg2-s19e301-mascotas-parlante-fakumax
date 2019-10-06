@@ -1,0 +1,13 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.2\EntidadesTest.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.2\EntidadesTest.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.2\EntidadesTest.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.2\EntidadesTest.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.2\EntidadesTest.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.2\Entidades.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.2\Entidades.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.2\EntidadesTest.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.2\EntidadesTest.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.2\EntidadesTest.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.2\EntidadesTest.vbproj.CopyComplete
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.2\EntidadesTest.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.2\EntidadesTest.pdb

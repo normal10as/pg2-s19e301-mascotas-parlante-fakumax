@@ -1,0 +1,14 @@
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.exe
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.deps.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.runtimeconfig.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.runtimeconfig.dev.json
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\EntidadesTest.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\Entidades.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp3.0\Entidades.pdb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.vbprojAssemblyReference.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.AssemblyInfoInputs.cache
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.AssemblyInfo.vb
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.vbproj.CopyComplete
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.dll
+C:\Users\n0mak\source\repos\normal10as\pg2-s19e301-mascotas-parlante-fakumax\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp3.0\EntidadesTest.pdb
